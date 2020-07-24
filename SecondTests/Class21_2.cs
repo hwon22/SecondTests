@@ -10,7 +10,7 @@ namespace SecondTests
     class ClassUse
     {
 
-        static void oneMain(string[] args)
+        static void Main2(string[] args)
         {
             //21-2. 클래스 사용
 

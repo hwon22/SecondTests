@@ -17,7 +17,7 @@ namespace SecondTests
 
     class Program
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             //21-3. 클래스 생성
 
